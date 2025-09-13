@@ -5,6 +5,7 @@ British Airways Data Science Job Simulation By Forage
 
 ## Overview
 This project involved the development and implementation of a predictive machine learning model to classify customer flight booking completion outcomes. Through rigorous feature engineering and advanced analytical techniques, the model successfully identified critical behavioral and transactional determinants driving booking decisions, enabling data-driven strategies to optimize conversion rates.
+
 *Disclaimer: “This project was completed as part of the British Airways Data Science Virtual Experience on Forage. It is a simulated exercise for educational purposes and does not represent real operational data from British Airways.”*
 
 ## Key Deliverables
