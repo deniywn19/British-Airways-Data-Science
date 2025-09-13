@@ -20,3 +20,9 @@ This project involved the development and implementation of a predictive machine
 * Matplotlib & Seaborn (visualization)
 * Google Colab (interactive coding)
 * PowerPoint (business summary)
+
+## Task
+### Task 1 :Designed classification solution utilizing historical booking data
+Key Deliverables 1
+### Task 2 :Synthesized findings into a concise executive summary presented in a single PowerPoint slide.
+Key Deliverables 2
